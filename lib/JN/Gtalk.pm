@@ -1,1 +1,0 @@
-../../../JN-Gtalk/lib/JN/Gtalk.pm
